@@ -37,9 +37,10 @@ public class SCP939Entity extends Monster {
         super(pEntityType, pLevel);
     }
 
-
-
-
+    @Override
+    public boolean isPersistenceRequired() {
+        return true;
+    }
 
     public static AttributeSupplier.Builder getSCPAttributes(){
         return Monster.createMonsterAttributes()

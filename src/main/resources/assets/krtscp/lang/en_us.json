@@ -7,5 +7,10 @@
 
   "item.krtscp.human_spawn_egg": "Human Spawn Egg",
   "item.krtscp.scp173_spawn_egg": "SCP-173 Spawn Egg",
-  "item.krtscp.scp939_spawn_egg": "SCP-939 Spawn Egg"
+  "item.krtscp.scp939_spawn_egg": "SCP-939 Spawn Egg",
+
+  "block.krtscp.white_tiles": "White Tiles",
+  "block.krtscp.white_tiles_big": "Big White Tiles",
+  "block.krtscp.marble": "Marble",
+  "block.krtscp.marble_bricks": "Marble Bricks"
 }

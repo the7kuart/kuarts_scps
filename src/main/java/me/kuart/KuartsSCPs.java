@@ -1,6 +1,7 @@
 package me.kuart;
 
 import com.mojang.logging.LogUtils;
+import me.kuart.init.BlockInit;
 import me.kuart.init.EntityInit;
 import me.kuart.init.ItemsInit;
 import net.minecraft.client.Minecraft;
@@ -46,6 +47,7 @@ public class KuartsSCPs
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
         EntityInit.ENTITIES.register(modEventBus);
+        BlockInit.BLOCKS.register(modEventBus);
         ItemsInit.ITEMS.register(modEventBus);
 
 

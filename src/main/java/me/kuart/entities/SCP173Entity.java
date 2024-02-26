@@ -56,7 +56,7 @@ public class SCP173Entity extends Monster {
 
     @Override
     public boolean isPersistenceRequired() {
-        return false;
+        return true;
     }
 
     public static AttributeSupplier.Builder getSCPAttributes(){
