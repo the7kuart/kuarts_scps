@@ -1,0 +1,11 @@
+{
+  "itemGroup.krtscptab": "Kuart's SCPs",
+
+  "entity.krtscp.scp173": "SCP-173",
+  "entity.krtscp.human": "Human",
+
+
+  "item.krtscp.human_spawn_egg": "Human Spawn Egg",
+  "item.krtscp.scp173_spawn_egg": "SCP-173 Spawn Egg",
+  "item.krtscp.scp939_spawn_egg": "SCP-939 Spawn Egg"
+}

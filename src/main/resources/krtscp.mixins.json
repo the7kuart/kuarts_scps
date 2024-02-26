@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "me.kuart.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "krtscp.refmap.json",
+  "mixins": ["ZombieMixin","AbstractSkeletonMixin"],
+  "client": [],
+  "minVersion": "0.8.5"
+}
